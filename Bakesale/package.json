@@ -10,7 +10,7 @@
 		"lodash.debounce": "^4.0.8",
 		"prop-types": "^15.6.0",
 		"react": "16.0.0-alpha.12",
-		"react-native": "0.48.4"
+		"react-native": "0.70.6"
 	},
 	"devDependencies": {
 		"babel-eslint": "^8.0.1",
